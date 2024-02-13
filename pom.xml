@@ -67,20 +67,20 @@
             <artifactId>javafaker</artifactId>
             <version>1.0.2</version>
         </dependency>
-        <!-- https://mvnrepository.com/artifact/org.testng/testng -->
-        <dependency>
-            <groupId>org.testng</groupId>
-            <artifactId>testng</artifactId>
-            <version>7.9.0</version>
-            <scope>test</scope>
-        </dependency>
-        <!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api -->
-        <dependency>
-            <groupId>org.junit.jupiter</groupId>
-            <artifactId>junit-jupiter-api</artifactId>
-            <version>5.10.2</version>
-            <scope>test</scope>
-        </dependency>
+<!--        &lt;!&ndash; https://mvnrepository.com/artifact/org.testng/testng &ndash;&gt;-->
+<!--        <dependency>-->
+<!--            <groupId>org.testng</groupId>-->
+<!--            <artifactId>testng</artifactId>-->
+<!--            <version>7.9.0</version>-->
+<!--            <scope>test</scope>-->
+<!--        </dependency>-->
+<!--        &lt;!&ndash; https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api &ndash;&gt;-->
+<!--        <dependency>-->
+<!--            <groupId>org.junit.jupiter</groupId>-->
+<!--            <artifactId>junit-jupiter-api</artifactId>-->
+<!--            <version>5.10.2</version>-->
+<!--            <scope>test</scope>-->
+<!--        </dependency>-->
         <!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-java -->
         <dependency>
             <groupId>io.cucumber</groupId>
